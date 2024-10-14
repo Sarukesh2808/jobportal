@@ -60,6 +60,7 @@ Install dependencies:
     npm install
 Configure environment variables in a .env file:
 MONGO_URI=your_mongo_db_uri
+
 3. **Frontend Setup**:
 
 Navigate to the frontend directory:
